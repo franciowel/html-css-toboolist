@@ -14,6 +14,24 @@
 
 .content{
     background-color: white;
+    padding: 20px 50px;
+}
+
+.task-list{
+    list-style: none;
+}
+
+.list-point{
+    list-style: none;
+}
+
+.btn{
+    padding:5px;
+    margin:5px;
+    width: 120px;
+    border-radius: 5%;
+    border-style: none;
+    font-weight:600;
 }
 
 /* header */
@@ -35,8 +53,23 @@
     font-weight: 700;
 }
 
-hr{
-    background-color: #f6f8f9;
-    
-}
+
 /* main */
+.btn-1{
+    background-color: #47adf1;
+    color: white;
+}
+
+.btn-2{
+    background-color: white;
+    border: 1px solid lightgrey;
+    color: lightgrey;
+}
+hr{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.task-list{
+    margin-top: 20px;
+}
