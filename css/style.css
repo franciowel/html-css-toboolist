@@ -14,9 +14,11 @@
 
 .content{
     background-color: white;
+    border-radius: 30px;
+}
+
+.boxed{
     padding: 20px 50px;
-    border-top-left-radius: 30px;
-    border-top-right-radius: 30px;
 }
 
 .task-list{
@@ -86,8 +88,7 @@
     color: lightgrey;
 }
 hr{
-    margin-top: 5px;
-    margin-bottom: 5px;
+    color: #f6f8f9;
 }
 
 .task-list{
