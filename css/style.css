@@ -104,71 +104,71 @@ hr{
 }
 
 .list-point{
-    margin-left: 5px;
+    margin-left: 7px;
     margin-top: 16px;
     margin-bottom: 16px;
     font-size: 15px;
-    font-weight: 400;
+    font-weight: bold;
 }
 
 /* tag categorie */
 
 #editorial{
     background-color: #47adf1;
-    padding: 6px 4px;
+    padding: 6px 10px;
     margin-left: 5px;
     color: white;
     border-radius: 7px;
     font-weight: 600;
-    font-size: 15px;
+    font-size: 13px;
 }
 
 #goals{
     background-color: #64c0a9;
-    padding: 6px 4px;
+    padding: 6px 10px;
     margin-left: 5px;
     color: white;
     border-radius: 7px;
     font-weight: 600;
-    font-size: 15px;
+    font-size: 13px;
 }
 
 #recruiting{
     background-color: #47adf1;
-    padding: 6px 4px;
+    padding: 6px 10px;
     margin-left: 5px;
     color: white;
     border-radius: 7px;
     font-weight: 600;
-    font-size: 15px;
+    font-size: 13px;
 }
 
 #mobile{
     background-color: #f29e33;
-    padding: 6px 4px;
+    padding: 6px 10px;
     margin-left: 5px;
     color: white;
     border-radius: 7px;
     font-weight: 600;
-    font-size: 15px;
+    font-size: 13px;
 }
 
 #website{
     background-color: #d863a1;
-    padding: 6px 4px;
+    padding: 6px 10px;
     margin-left: 5px;
     color: white;
     border-radius: 7px;
     font-weight: 600;
-    font-size: 15px;
+    font-size: 13px;
 }
 
 #sales{
     background-color: #b0c926;
-    padding: 7px 4px;
+    padding: 6px 10px;
     margin-left: 5px;
     color: white;
     border-radius: 7px;
     font-weight: 600;
-    font-size: 15px;
+    font-size: 13px;
 }
