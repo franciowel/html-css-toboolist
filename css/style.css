@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: arial;
+}
+
+/* COMMON */
+
+.container{
+    background-color: #f6f8f9;
+    padding: 50px 250px;
+}
+
+.content{
+    background-color: white;
+}
+
+/* header */
+.banner{
+    background-color: white;
+    padding: 10px;
+
+}
+
+.logo-img{
+    width: 70px;
+    margin-left: 15px;
+    vertical-align: middle;
+}
+
+.logo-text{
+    font-size: 45px;
+    vertical-align: middle;
+    font-weight: 700;
+}
+
+hr{
+    background-color: #f6f8f9;
+    
+}
+/* main */
