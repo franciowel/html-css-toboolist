@@ -6,9 +6,11 @@
 }
 
 /* COMMON */
+body{
+    background-color: #f6f8f9;
+}
 
 .container{
-    background-color: #f6f8f9;
     padding: 50px 250px;
 }
 
@@ -30,10 +32,9 @@
 }
 
 .btn{
-    padding:5px;
+    padding:10px 30px;
     margin:5px;
-    width: 120px;
-    border-radius:                                    7px;
+    border-radius: 10px;
     border-style: none;
     font-weight:600;                             
 }
@@ -93,6 +94,11 @@
     border: 1px solid lightgrey;
     color: lightgrey;
 }
+
+.btn:active{
+    color: black;
+}
+
 hr{
     color: #f6f8f9;
 }
@@ -118,7 +124,6 @@ hr{
 }
 
 /* tag categorie */
-
 .tag{
     padding: 6px 10px;
     margin-left: 5px;
@@ -126,6 +131,10 @@ hr{
     border-radius: 7px;
     font-weight: 600;
     font-size: 13px;
+}
+
+.tag:hover{
+    padding: 6px 16px;
 }
 
 .editorial{
