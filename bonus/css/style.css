@@ -1,0 +1,173 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: arial;
+}
+
+/* COMMON */
+body{
+    background-color: #b7f7b0;
+}
+
+.container{
+    padding: 80px 300px;
+}
+
+.content{
+    background-color: white;
+    border-radius: 45px;
+}
+
+.boxed{
+    padding: 45px 80px;
+}
+
+.task-list{
+    list-style: none;
+}
+
+.list-point{
+    list-style: none;
+}
+
+.btn{
+    padding:10px 30px;
+    margin:5px;
+    border-radius: 10px;
+    border-style: none;
+    font-weight:600;                             
+}
+
+.icon{
+    display: inline-block;
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    margin-right: 5px;
+    border-radius: 50%;
+    font-size: 15px
+
+}
+
+.checked{
+    color: #64c0a9;
+    background-color: white;
+    border: 1px solid #64c0a9;
+}
+
+.crossed{
+    color: red;
+    background-color: white;
+    border: 1px solid red;
+}
+
+/* header */
+.banner{
+    background-color: white;
+    padding: 20px;
+    border-bottom: 1px solid #6ed663;
+
+}
+
+.logo-img{
+    width: 60px;
+    margin-left: 15px;
+    vertical-align: middle;
+}
+
+.logo-text{
+    font-size: 45px;
+    vertical-align: middle;
+    font-weight: bold;
+}
+
+.t-text{
+    font-size: 45px;
+    font-weight: bold;
+    color: #6ed663;
+}
+
+
+
+/* main */
+.btn-1{
+    background-color: #6ed663;
+    color: white;
+}
+
+.btn-2{
+    background-color: white;
+    border: 1px solid lightgrey;
+    color: lightgrey;
+}
+
+.btn:active{
+    color: #6ed663;
+    border: 1px solid #6ed663;
+    background-color: white;
+}
+
+hr{
+    color: #f6f8f9;
+}
+
+.task-list{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    vertical-align: middle;
+}
+
+.trng{
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+.list-point{
+    margin-left: 7px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+/* tag categorie */
+.tag{
+    padding: 6px 10px;
+    margin-left: 5px;
+    color: white;
+    border-radius: 7px;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+.tag:hover{
+    padding: 6px 16px;
+}
+
+.editorial{
+    background-color: #47adf1;  
+}
+
+.goals{
+    background-color: #64c0a9;;
+}
+
+.recruiting{
+    background-color: #47adf1;
+}
+
+.mobile{
+    background-color: #f29e33;
+}
+
+.website{
+    background-color: #d863a1;
+}
+
+.sales{
+    background-color: #b0c926;
+}
